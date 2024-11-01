@@ -1,2 +1,3 @@
 # NLP-Tokenization-Techniques
 A comprehensive guide to NLP tokenization techniques implemented in Python.
+This repository offers a deep dive into tokenization techniques in NLP, exclusively using the NLTK library. It covers various tokenization methods, including word, sentence, and character-level tokenization, along with advanced preprocessing steps such as handling punctuation, special characters, and stopwords. Each tokenization method is demonstrated with practical examples, enabling users to preprocess text data effectively for machine learning tasks. Ideal for NLP enthusiasts and data scientists looking to leverage NLTK’s capabilities to prepare text data for downstream applications.
